@@ -1,2 +1,2 @@
-# T-score.csv.ipynb
+# T-score.ipynb
 T-score method
